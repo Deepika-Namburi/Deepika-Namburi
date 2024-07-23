@@ -1,10 +1,8 @@
 Hello Viewers👋👋
-- Everything is a fear untill we dare to hear!
+- Everything is fear untill we dare to hear!
 - Believe in Yourself✊
 - I am not a good codder, but still I know how to code.
-- Learning is big task to learn, when you find this,well we are in the rightpath.
-- My hobbies were Writing Stories.
-
+- Learning is a big task to learn.
 
 <!---
 Deepika-Namburi/Deepika-Namburi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
